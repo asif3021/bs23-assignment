@@ -30,7 +30,7 @@
 
 ### Necessary commands for docker
 ```bash
-1. double clicking on redis server inside redis folder.(The server is available in online)
+1. docker run image_name (This command is used to run docker image)
 ```
 
 ### CURLs for CRUD operation testing
